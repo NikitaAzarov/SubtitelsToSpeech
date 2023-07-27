@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:02,023
+That's just. Awesome!
+
+2
+00:00:02,023 --> 00:00:07,560
+In the new 23w04a snapshot, they added a new system for improving and customizing armor.
+
+3
+00:00:07,560 --> 00:00:12,060
+Which has over 700 variations for customization, and it looks very interesting.
+
+4
+00:00:12,060 --> 00:00:15,660
+But let's take it one step at a time: Do you remember how you got the nonZirite tools?
+
+5
+00:00:15,660 --> 00:00:21,060
+You sheared a lot of sheep, crafted beds, and went to hell blowing up tunnels looking for ancient debris,  
+
+6
+00:00:21,060 --> 00:00:24,780
+Trying not to get caught in the lava. Sometimes unsuccessfully.
+
+7
+00:00:24,780 --> 00:00:30,180
+Finding 5 pieces of debris, happily running to remelt them, while trying again to avoid hitting the lava.
+
+8
+00:00:30,180 --> 00:00:32,100
+Added four gold bars to them,
+
+9
+00:00:32,100 --> 00:00:33,480
+Went to the blacksmith's table,
+
+10
+00:00:33,480 --> 00:00:35,160
+joined the neserite to the diamond pick
+
+11
+00:00:35,160 --> 00:00:38,520
+So you're off to your friends bragging about your new pick.
+
+12
+00:00:38,520 --> 00:00:43,860
+But with version 1.20, you'll have to fight a little harder to make non-green tools and armor.
+
+13
+00:00:43,860 --> 00:00:48,960
+Because to upgrade to non-green tools and armor, you'll need to find an upgrade template.
+
+14
+00:00:48,960 --> 00:00:51,613
+And it will only be in the bastions.
+
+15
+00:00:51,613 --> 00:00:54,034
+You probably understand what might be going on there.
+
+16
+00:00:54,034 --> 00:00:57,000
+Unless, of course, you're in peaceful mode.
+
+17
+00:00:57,000 --> 00:01:01,020
+After you've found an enhancement pattern, mined naserite, and died a few times.
+
+18
+00:01:01,020 --> 00:01:03,840
+You will notice that the blacksmith's table is also changed.
+
+19
+00:01:03,840 --> 00:01:07,500
+It's got an extra slot, it's just used for templates.
+
+20
+00:01:07,500 --> 00:01:11,160
+Put the improvement template, neserite ingot, and diamond tool there,
+
+21
+00:01:11,160 --> 00:01:12,420
+Or diamond armor
+
+22
+00:01:12,420 --> 00:01:16,680
+You will receive the long-awaited neserite armor, or tool.
+
+23
+00:01:16,680 --> 00:01:18,840
+There's also the armor customization.
+
+24
+00:01:18,840 --> 00:01:21,000
+You'll have to find different templates for her, too.
+
+25
+00:01:21,000 --> 00:01:24,060
+But thank goodness those patterns aren't in the bastions.
+
+26
+00:01:24,060 --> 00:01:27,120
+Scattered around different buildings in different biomes.
+
+27
+00:01:27,120 --> 00:01:29,280
+And the different structures have their own patterns.
+
+28
+00:01:29,280 --> 00:01:31,260
+Which are not repeated in other biomes
+
+29
+00:01:31,260 --> 00:01:33,900
+By the way, some patterns are rarer than others
+
+30
+00:01:33,900 --> 00:01:35,640
+But even here, it's not all that simple.
+
+31
+00:01:35,640 --> 00:01:39,720
+One of the added templates can only be obtained by killing an ancient guardian.
+
+32
+00:01:39,720 --> 00:01:41,902
+That's not so easy either.
+
+33
+00:01:41,902 --> 00:01:44,940
+So all in all, we have 11 new patterns.
+
+34
+00:01:44,940 --> 00:01:49,980
+So that you don't have to look for these templates several times, we have added pattern krafts.
+
+35
+00:01:49,980 --> 00:01:54,900
+You will need 7 diamonds, one template, and a block that refers to the template biome.
+
+36
+00:01:54,900 --> 00:01:58,200
+You need a block of mossy cobblestone to craft the wild template.
+
+37
+00:01:58,200 --> 00:02:01,080
+Yeah, it's not very cheap, but it can save a lot of time.
+
+38
+00:02:01,080 --> 00:02:04,740
+Especially for the final game, when the diamonds are plentiful.
+
+39
+00:02:04,740 --> 00:02:07,800
+The customization of the armor itself, doesn't add any advantages.
+
+40
+00:02:07,800 --> 00:02:10,260
+These customizations are all just visual.
+
+41
+00:02:10,260 --> 00:02:13,740
+To customize the armor, you must put the desired armor into the blacksmith's table.  
+
+42
+00:02:13,740 --> 00:02:16,260
+template, the armor itself, and the material for customization.
+
+43
+00:02:16,260 --> 00:02:19,800
+The template affects the type of customization, and the material affects its color.
+
+44
+00:02:19,800 --> 00:02:21,560
+The material can be:
+
+45
+00:02:21,560 --> 00:02:27,536
+Neserrite, diamond, gold, copper, lapis lazuli, emerald, redstone, quartz, and a piece of amethyst.
+
+46
+00:02:27,536 --> 00:02:30,480
+But you can't use the same material that the armor is made of.
+
+47
+00:02:30,480 --> 00:02:34,020
+So you can't customize iron armor with iron ingot.
+
+48
+00:02:34,020 --> 00:02:35,709
+But there is one interesting bug.
+
+49
+00:02:35,709 --> 00:02:38,737
+If you customize diamond armor with neserite
+
+50
+00:02:38,737 --> 00:02:43,819
+And then pump that armor up to neserite, then the customization stays, which shouldn't happen.
+
+51
+00:02:43,819 --> 00:02:48,466
+And to me that armor with customization looks more intimidating and cooler than without customization.
+
